@@ -1,0 +1,7 @@
+/* 
+This will be a placeholder for the 128x128 shield icon.
+Since we can't create binary files directly, you'll need to:
+1. Run the src/generate-icons.tsx in the browser
+2. Save the shield icon in 128x128 size
+3. Place it in this location
+*/
